@@ -1,0 +1,24 @@
+/* Place your CSS styles in this file */
+@import url('https://fonts.googleapis.com/css2?family=Michroma&display=swap');
+h1 {
+    text-align: center;
+    font-family: "Michroma", sans-serif;
+    font-weight: normal;
+}
+body{
+    font-family: "Michroma", sans-serif;
+    text-align: center;
+    background-image: url('https://www.youtube.com/watch?v=m-qemG-aNFM');
+    background-size: cover;
+}
+.topNav {
+    border-bottom: 30px solid purple;
+    border:10px solid purple;
+    fill: blueviolet;
+}
+iframe {
+    border: 3px solid plum;
+}
+.link {
+    display: inline;
+}
