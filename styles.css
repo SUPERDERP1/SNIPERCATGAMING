@@ -8,8 +8,6 @@ h1 {
 body{
     font-family: "Michroma", sans-serif;
     text-align: center;
-    background-image: url('https://www.youtube.com/watch?v=m-qemG-aNFM');
-    background-size: cover;
 }
 .topNav {
     border-bottom: 30px solid purple;
@@ -22,3 +20,10 @@ iframe {
 .link {
     display: inline;
 }
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
