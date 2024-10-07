@@ -10,8 +10,9 @@ body{
     text-align: center;
 }
 .topNav {
-    border-bottom: 30px solid purple;
-    border:10px solid purple;
+    border-bottom: 30px grey;
+    border:10px grey;
+    
    
 }
 iframe {
