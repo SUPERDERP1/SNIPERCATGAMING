@@ -12,7 +12,7 @@ body{
 .topNav {
     border: 10px greenyellow;
     border-bottom: 10px greenyellow;
-    
+    z-index: 0;
    
 }
 iframe {
