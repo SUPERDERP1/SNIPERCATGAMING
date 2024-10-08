@@ -14,8 +14,12 @@ body{
     z-index: 1;
     
 }
+.sideText {
+    float: right;
+}
 iframe {
     border: 3px solid plum;
+    float: left;
 }
 .link {
     display: inline;
