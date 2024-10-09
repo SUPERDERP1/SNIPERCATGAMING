@@ -4,7 +4,7 @@ h1 {
     text-align: center;
     font-family: "Michroma", sans-serif;
     font-weight: bold;
-    color: brown;
+    color: darkgreen;
 }
 body{
     font-family: "Michroma", sans-serif;
@@ -18,7 +18,7 @@ body{
 .sideText {
     float: right;
     font-weight: normal;
-    font-size: x-large;
+    font-size: 15px;
 }
 iframe {
     border: 3px solid plum;
