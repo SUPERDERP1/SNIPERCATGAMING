@@ -19,6 +19,7 @@ body{
     float: right;
     font-weight: normal;
     font-size: 50px;
+    word-wrap: normal;
 }
 iframe {
     border: 3px solid plum;
