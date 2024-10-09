@@ -3,7 +3,8 @@
 h1 {
     text-align: center;
     font-family: "Michroma", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
+    color: brown;
 }
 body{
     font-family: "Michroma", sans-serif;
@@ -16,6 +17,8 @@ body{
 }
 .sideText {
     float: right;
+    font-weight: normal;
+    font-size: x-large;
 }
 iframe {
     border: 3px solid plum;
