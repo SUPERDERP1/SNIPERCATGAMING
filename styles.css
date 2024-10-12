@@ -21,9 +21,7 @@ body{
     font-size: 50px;
     word-wrap: break-word;
 }
-iframe {
-    border: 3px solid plum;
-}
+
 .link {
     display: inline;
     border: 10px greenyellow;
@@ -58,4 +56,17 @@ a:hover, a:active {
 .right{
     float: right;
     outline: 3px #f44336;
+}
+
+.center{
+    float: center;
+    outline: 3px #f44336;
+}
+.sub{
+    background-color: white;
+    color: #f44336;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
 }
