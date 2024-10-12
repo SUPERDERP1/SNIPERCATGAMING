@@ -18,7 +18,7 @@ body{
 .sideText {
     float: right;
     font-weight: normal;
-    font-size: 25px;
+    font-size: 50px;
     word-wrap: break-word;
 }
 iframe {
@@ -49,4 +49,14 @@ a:link, a:visited {
 
 a:hover, a:active {
   background-color: red;
+}
+
+.left{
+    float: left;
+    outline: 3px #f44336;
+}
+
+.right{
+    float: right;
+    outline: 3px #f44336;
 }
