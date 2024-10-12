@@ -21,6 +21,9 @@ body{
     font-size: 50px;
     word-wrap: break-word;
 }
+iframe{
+    outline: 3px #f44336;
+}
 
 .link {
     display: inline;
