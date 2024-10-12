@@ -16,14 +16,13 @@ body{
     
 }
 .sideText {
-    float: right;
+    float: center;
     font-weight: normal;
     font-size: 50px;
     word-wrap: break-word;
 }
 iframe {
     border: 3px solid plum;
-    float: left;
 }
 .link {
     display: inline;
