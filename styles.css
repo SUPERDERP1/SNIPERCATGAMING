@@ -13,7 +13,7 @@ body{
 .topNav {
     border: 10px solid greenyellow;
     z-index: 1;
-    
+    float: center;
 }
 .sideText {
     float: center;
