@@ -23,6 +23,7 @@ body{
 }
 iframe{
     outline: 3px #f44336;
+    padding: 20px;
 }
 
 .link {
@@ -75,5 +76,5 @@ a:hover, a:active {
     font-size: 20px;
 }
 h2 {
-color:fuchsia;
+color: seagreen;
 }
